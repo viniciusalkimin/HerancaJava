@@ -1,0 +1,2 @@
+# HerancaJava
+Ex herança
